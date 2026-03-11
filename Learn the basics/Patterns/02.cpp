@@ -20,3 +20,9 @@ int main()
     printPattern(n);
     return 0;
 }
+
+// output
+// *
+// * *
+// * * *
+// * * * *
